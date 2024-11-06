@@ -2,28 +2,28 @@ import 'package:paml_flutter_responsi/src/models/music.dart';
 
 final List<Music> musicData = [
   Music(
-    imageUrl: "https://cdns.klimg.com/resized/670x/g/8/_/8_fakta_tersembunyi_tentang_eren_yeager_yang_jarang_diketahui_penggemar_ungkap_sisi_lain_sang_protagonis/p/eren_yaeger-20240830-006-non_fotografer_kly.jpg",
-    artist: "Artist 1",
-    song: "Song Title 1",
+    imageUrl: "https://i.scdn.co/image/ab67616d0000b2733b11178cccd78ec77fc12dbc",
+    artist: "Meghan Trainer ft John Legend",
+    song: "Like I'm Gonna Lose You",
   ),
   Music(
-    imageUrl: "https://example.com/song2.jpg",
-    artist: "Artist 2",
-    song: "Song Title 2",
+    imageUrl: "https://i.ytimg.com/vi/OJIdDNhXW4c/maxresdefault.jpg",
+    artist: "The 1997",
+    song: "About You",
   ),
   Music(
-    imageUrl: "https://example.com/song3.jpg",
-    artist: "Artist 3",
-    song: "Song Title 3",
+    imageUrl: "https://kuy-ent.s3.ap-southeast-1.amazonaws.com/images/post/c4127027-6804-454c-a08a-ff3cd1345d34_original.jpg",
+    artist: "Ariana Grande",
+    song: "We Can't Be Friends",
   ),
   Music(
-    imageUrl: "https://example.com/song3.jpg",
-    artist: "Artist 3",
-    song: "Song Title 3",
+    imageUrl: "https://i1.sndcdn.com/artworks-000057019147-ctgu5q-t500x500.jpg",
+    artist: "Boys II Men",
+    song: "On Bended Knee",
   ),
   Music(
-    imageUrl: "https://example.com/song3.jpg",
-    artist: "Artist 3",
-    song: "Song Title 3",
+    imageUrl: "https://i.ytimg.com/vi/oFP4kuIiUQ4/sddefault.jpg",
+    artist: "James Arthur",
+    song: "Car Out Side",
   ),
 ];
